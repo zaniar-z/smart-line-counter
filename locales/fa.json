@@ -1,0 +1,48 @@
+{
+  "lang_name": "فارسی",
+  "app_title": "شمارنده کلمات پیشرفته",
+  "title_label": "شمارنده کلمات پیشرفته",
+
+  "tab_file": "📂 فایل",
+  "tab_direct": "✏️ متن مستقیم",
+  "tab_history": "🕑 تاریخچه",
+
+  "input_group": "انتخاب فایل",
+  "direct_input_group": "ورودی متن مستقیم",
+  "history_group": "تاریخچه آنالیزها",
+
+  "browse_btn": "انتخاب فایل",
+  "file_placeholder": "مسیر فایل را وارد کنید یا اینجا رها کنید...",
+  "filter_label": "کلمات استثنا (با کاما جدا کنید):",
+  "filter_placeholder": "مثال: و، در، که، از",
+  "calc_btn": "محاسبه و آنالیز",
+  "clear_history_btn": "پاک کردن تاریخچه",
+
+  "result_group": "نتایج",
+  "copy_btn": "کپی نتایج",
+  "save_btn": "ذخیره خروجی",
+
+  "theme_dark_btn": "☀️ حالت روز",
+  "theme_light_btn": "🌙 حالت شب",
+
+  "error_title": "خطا",
+  "attention_title": "توجه",
+  "success_title": "موفق",
+
+  "valid_file_msg": "لطفاً یک فایل معتبر انتخاب کنید.",
+  "empty_file_msg": "فایل انتخاب‌شده خالی است.",
+  "empty_direct_msg": "لطفاً متنی وارد کنید.",
+  "analyze_first": "ابتدا یک آنالیز انجام دهید.",
+  "copied_msg": "نتایج در کلیپ‌بورد کپی شد.",
+  "saved_msg": "فایل با موفقیت ذخیره شد.",
+
+  "analysis_res": "📄 نتایج آنالیز: {}",
+  "total_words": "🔢 مجموع کلمات: {}",
+  "unique_words": "✨ کلمات منحصربه‌فرد: {}",
+  "lines_count": "📋 تعداد خطوط: {}",
+  "chars_count": "🔡 تعداد کاراکترها: {}",
+  "avg_len": "📏 میانگین طول کلمه: {}",
+  "filtered_count": "🚫 کلمات فیلتر شده: {}",
+  "top_words": "🏆 ۱۰ کلمه پرتکرار:",
+  "times": "بار"
+}

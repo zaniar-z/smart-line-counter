@@ -1,0 +1,48 @@
+{
+  "lang_name": "English",
+  "app_title": "Advanced Word Counter",
+  "title_label": "Advanced Word Counter",
+
+  "tab_file": "📂 File",
+  "tab_direct": "✏️ Direct Input",
+  "tab_history": "🕑 History",
+
+  "input_group": "File Selection",
+  "direct_input_group": "Direct Text Input",
+  "history_group": "Analysis History",
+
+  "browse_btn": "Browse File",
+  "file_placeholder": "Enter file path or drag & drop here...",
+  "filter_label": "Exclude words (comma-separated):",
+  "filter_placeholder": "e.g. the, is, of, and",
+  "calc_btn": "Analyze",
+  "clear_history_btn": "Clear History",
+
+  "result_group": "Results",
+  "copy_btn": "Copy Results",
+  "save_btn": "Save Output",
+
+  "theme_dark_btn": "☀️ Light Mode",
+  "theme_light_btn": "🌙 Dark Mode",
+
+  "error_title": "Error",
+  "attention_title": "Notice",
+  "success_title": "Success",
+
+  "valid_file_msg": "Please select a valid file.",
+  "empty_file_msg": "The selected file is empty.",
+  "empty_direct_msg": "Please enter some text.",
+  "analyze_first": "Please run an analysis first.",
+  "copied_msg": "Results copied to clipboard.",
+  "saved_msg": "File saved successfully.",
+
+  "analysis_res": "📄 Analysis Result: {}",
+  "total_words": "🔢 Total Words: {}",
+  "unique_words": "✨ Unique Words: {}",
+  "lines_count": "📋 Lines: {}",
+  "chars_count": "🔡 Characters: {}",
+  "avg_len": "📏 Avg Word Length: {}",
+  "filtered_count": "🚫 Filtered Words: {}",
+  "top_words": "🏆 Top 10 Words:",
+  "times": "times"
+}
